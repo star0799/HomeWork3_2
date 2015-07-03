@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork3_2</string>
+    <string name="btStart">翻滾吧!!</string>
+    <string name="btEnd">不玩惹!</string>
+    <string name="tvWriting">文字君</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
